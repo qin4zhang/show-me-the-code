@@ -1,4 +1,4 @@
-package com.qin4zhang.demo;
+package com.qin4zhang.demo.know;
 
 import java.net.NetworkInterface;
 import java.security.SecureRandom;
